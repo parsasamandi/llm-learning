@@ -1,0 +1,8 @@
+Acme Corp was founded in 2020 by Jane Smith.
+The company is headquartered in Vancouver, Canada.
+Acme Corp builds AI-powered tools for developers.
+The company has 50 employees as of 2024.
+The CEO is Jane Smith and the CTO is Bob Johnson.
+Acme Corp's main product is called CodeHelper.
+CodeHelper costs $29 per month for individuals.
+Enterprise pricing starts at $500 per month.
