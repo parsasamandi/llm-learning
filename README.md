@@ -1,6 +1,6 @@
 # LLM Learning
 
-A collection of practical examples demonstrating how to work with Large Language Models using [Ollama](https://ollama.ai/) and Python.
+A collection of practical examples demonstrating how to work with Large Language Models using [Ollama](https://ollama.com/) and Python.
 
 ## Features
 
@@ -15,7 +15,7 @@ This repository contains several examples showcasing different LLM patterns:
 
 Before running these examples, you need:
 
-1. **Ollama** - Install from [ollama.ai](https://ollama.ai/)
+1. **Ollama** - Install from [ollama.com](https://ollama.com/)
 2. **Python 3.10+** - With pip for package management
 3. **Required Model** - Pull the model used in examples:
    ```bash
